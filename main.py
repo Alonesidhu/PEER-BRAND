@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%221739016050068.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-02-13T17%3A09%3A18.466Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F88a52b0282874f74%2F1739016050068.jpg%3FExpires%3D1834074558%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DOwp6xXqLRJuGUC2HxbQx33qkFXn3MlQuSLOO9y-q77Sx2en4P3H2iRlqvNwO5H7F4SL4L2p07RQA2sp25KbRM5SAPwELDcEJO2uigbiTNDG-wkQunb1795ZHB2CFxAsxyjC4ms4XcYmy~hb3XtFRPtANHBrFGXMPxaEQ62V15Sd6AQipFjZMGJeXSxqJHOJ5vNw0-2GnIl8zDNqMklgHEwfLim-uv57ty0KRk0EckPdNBgPbyFFK3w-MdoQkO2d96YQ0GVpfFt-dujA6CXu5sRnPuZ1FSaO54-YFmXyyo8ytMUehVFYDdkAWcTP8Tx5iQtq3ds~~XzLeVFfSp0MVfQ__%22%7D');
+      background-image: url('https://ibb.co/Swcr1TbC');
       background-size: cover;
       background-repeat: no-repeat;
       color: pink;
